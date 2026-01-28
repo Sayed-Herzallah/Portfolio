@@ -70,11 +70,12 @@
 - Clean MVC architecture  
 🔗 Repo: (link)
 
-### 🟢 Blog Platform
+### 🟢 Sharaha App 
 - RESTful API with role-based access
-- Secure password hashing & validation
-- MongoDB relationships  
-🔗 Repo: (link)
+- Secure password hashing & validation & JWT
+- Authentication & Authorization
+- MongoDB relationships and mongoose
+🔗 Repo: ([(https://sayed-herzallah.github.io/Sharaha-App-BackEnd/)])
 
 ---
 ## 🤝 Let's Connect
